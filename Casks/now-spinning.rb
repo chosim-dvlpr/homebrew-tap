@@ -1,6 +1,6 @@
 cask "now-spinning" do
-  version "0.1.1"
-  sha256 "500d2432635d1ae0408a1c89a257414e3bb706917436676cfc2aa99e5f3f9181"
+  version "0.1.2"
+  sha256 "98c2144e6cccd70a71c02f36ef7951bdc00dd3400027a7075e6c4fc6a1aa66b1"
 
   url "https://github.com/chosim-dvlpr/now-spinning/releases/download/v#{version}/NowSpinning.zip"
   name "NowSpinning"
